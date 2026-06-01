@@ -1,7 +1,7 @@
 Deprecated
 ===========
 
-We are currently using and maintaining a java clone of this program which you can find here. [AOML LADCP Terminal](https://github.com/pedrolpena/aoml_ladcp_terminal)
+We are currently using and maintaining a java clone of this program which you can find here [AOML LADCP Terminal](https://github.com/pedrolpena/aoml_ladcp_terminal).
 This repository is being kep here for historical purposes.
 
 
